@@ -5,4 +5,9 @@ public class Hello {
         System.out.println("Local Hello World");
         System.out.println("Remote Hello World");
     }
+    /*
+    git add .
+    git commit -m"sdgsgfg"
+    git push
+     */
 }
