@@ -2,7 +2,7 @@ package day20passbyvaluemethodoverloading;
 
 public class PassByValue02 {
     public static void main(String[] args) {
-
+        // Stringin sonuna "Jr" ekleyen method olusturalim
         String nameMain = "Tom Hanks";
 
         System.out.println(updateName(nameMain,"Jr."));

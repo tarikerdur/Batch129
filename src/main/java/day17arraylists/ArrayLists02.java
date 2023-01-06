@@ -5,7 +5,6 @@ import java.util.List;
 
 public class ArrayLists02 {
     public static void main(String[] args) {
-
             /*
         Array List olustururken sag tarafa yani constructor'a "ArrayList<>()" yazmak zorundayiz.
         Ama sol tarafa ister "ArrayList" yazin isterseniz de "List" yazin ikisi de calisir.

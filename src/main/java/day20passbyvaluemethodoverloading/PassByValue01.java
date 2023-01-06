@@ -30,7 +30,7 @@ public class PassByValue01 {
 
              Example :
                  Asagidaki ornekte 100 tl olan tisortu
-                 ogrenci gazi ve yaslilar icin asil fiyati
+                 ogrenci, gazi ve yaslilar icin asil fiyati
                  degistirmeden indirim yapan kodu yazicaz.
          */
 
