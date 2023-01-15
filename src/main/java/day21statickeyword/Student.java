@@ -9,8 +9,8 @@ public class Student { // Projelerde genelde sadece runner classta main method o
             classin icinde aktifler ve pasifler olur. Yani ;
             "class members = variables + methods" diyebiliriz.
 
-                class variable == static variable
-                instance / object variable == non-static variable
+                class variable              == static variable
+                instance / object variable  == non-static variable
 
             instance (ENG) ==> gorunum (TR)
 

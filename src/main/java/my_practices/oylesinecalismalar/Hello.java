@@ -1,4 +1,4 @@
-package my_practices.öylesineçalışmalar;
+package my_practices.oylesinecalismalar;
 
 import java.util.ArrayList;
 import java.util.Arrays;

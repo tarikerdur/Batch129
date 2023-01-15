@@ -1,4 +1,4 @@
-package my_practices.öylesineçalışmalar;
+package my_practices.oylesinecalismalar;
 
 public class saidlekopkop {
     public static void main(String[] args) {

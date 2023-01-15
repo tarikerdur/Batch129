@@ -1,4 +1,4 @@
-package my_practices.öylesineçalışmalar;
+package my_practices.oylesinecalismalar;
 
 public class mentoring_team_practice {
     public static void main(String[] args) {
@@ -93,7 +93,7 @@ public class mentoring_team_practice {
 
         //Soru 6:Asagidaki multi dimensional array’in ic array’lerindeki son elemanlarin carpimini
         //           ekrana yazdiran java kodunu yaziniz. { {1,2,3}, {4,5}, {6} }
-//        int[][] arr6 = {{1, 2, 3}, {4, 5}, {6}, {3, 1, 7, 4, 6}, {9, 6, 10, 2}};
+//        int[][] arr6 = {{1, 2, 3}, {4, 5}, {6}, {3, 1}, {9, 6, 10}};
 //        int multiply = 1;
 //        for (int i = 0; i < arr6.length; i++) {
 //            for (int j = arr6[i].length - 1; j > arr6[i].length - 2; j--) {
