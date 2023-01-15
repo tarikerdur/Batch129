@@ -18,7 +18,7 @@ public class Scanner01 {
 
         System.out.println("Lutfen yasinizi giriniz...");
 
-        byte age = input.nextByte();
+        byte age = (byte) input.nextByte();
 
         System.out.println("girilen yas: " + age);
 
