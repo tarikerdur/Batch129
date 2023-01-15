@@ -38,7 +38,7 @@ public class Vehicle {
         i)  Inheritance - (gorduk)
         ii) Polymorphism - Method Overloading (gorduk) + Method Overriding (gormedik)
        iii) Encapsulation - (gormedik)
-        iv) Abstraction - (gormedik)
+        iv) Courses - (gormedik)
 
         */
 

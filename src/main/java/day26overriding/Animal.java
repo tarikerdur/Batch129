@@ -51,7 +51,7 @@ package day26overriding;
             final Class :
                 1- Bir Class "final" ise o Class'in child'i olamaz.
 
-            13) final method'lar ve static method'lar "Override" edilemezler.
+            13) final method'lar ve static method'lar "Override" edilemezler.   ************************************
 
             14) static olan methodlar herhangi bir child tarafindan degistirilemezler.
             static olan methodlar tum childlar icin ortak bir methoddur.
@@ -71,6 +71,15 @@ package day26overriding;
                 public int multiply(){ a * b }
                 public int multiply(){ (a + b) * a }
                 public int multiply(){ (a * b) / 100 }  ----> Overriding
+
+
+
+
+                OOP Pricipals:
+        i)  Inheritance - (gorduk)
+        ii) Polymorphism - Method Overloading (gorduk) + Method Overriding (gorduk)
+       iii) Encapsulation - (gormedik)
+        iv) Abstract - (gormedik)
         */
 
 
