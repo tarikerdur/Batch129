@@ -63,10 +63,13 @@ public abstract class Courses { // abstract keyword
     abstract methodlar implement, (esasinda override ama teknik olarak implement denirse sasirmayin, dedi)
     concrete methodlar override, edilir
 
-
+OOP Principals:
+ i)Inheritance +
+ ii)Polymorphism: Method Overloading + Method Overriding
+ iii)Encapsulation -
+ iv)Abstraction - Abstract Classes and Interfaces
 
                 */
-
 
     public abstract void math(); // abstract (soyut) methodlar abstract class'larda olur o yuzden
     // class isminin yanina da abstract keywordu koyduk.

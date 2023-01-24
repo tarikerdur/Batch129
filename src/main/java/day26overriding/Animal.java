@@ -9,6 +9,7 @@ package day26overriding;
             5)  Child Class'taki methoda ise "Overriding Method" denir.
 
             6)  private methodlar Override edilemezler. default methodlar da farkli packagelardan Override edilemez.
+
             7)  Child Class'taki Override edilmis method(Overriding Method)'un
             access modifier'i Parent Class'taki Override edilmis method (Overridden Method)'un
             access modifier'indan dar olamaz.
@@ -53,9 +54,7 @@ package day26overriding;
 
             13) final method'lar ve static method'lar "Override" edilemezler.   ************************************
 
-            14) static olan methodlar herhangi bir child tarafindan degistirilemezler.
-            static olan methodlar tum childlar icin ortak bir methoddur.
-            degistirilemez. dolayisiyla override yapilamaz. ama overload yapilabilir.
+            14) static olan methodlar override yapilamaz. ama overload yapilabilir. ***************
 
             15) "Override" yapabilmek icin "Inheritance" sarttir. Baska bir ifadeyle parent-child iliskisi sarttir.
 

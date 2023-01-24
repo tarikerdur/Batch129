@@ -1,20 +1,21 @@
 package my_practices.oylesinecalismalar;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
-
 public class Asd {
-    public static void main(String[] args) {
-        m3("Result: ");
+
+    public interface I02{
+        int x = 5;
+        void cal(int x);
     }
-    public static void m3(String x, int... y) {
-        int p = 1;
-        for(int w: y) {
-            p = p * w;
+    public interface I03 {
+        int x = 6;
+        void cal(int x);
+    }
+    public static class Test03 implements I02, I03 {
+        int x;
+        public void cal(int item){
+            x = item * item;
         }
-        System.out.print(x);
-        System.out.println(p);
+
     }
+
+
 }

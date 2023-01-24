@@ -3,7 +3,7 @@ package day27encapsulationabstraction;
 public class Student { // Exceptions'lara baslicaz, dedi
 
         /*
-        Biz bazen bir Class'in icindeki datalari saklamak isteriz. Mesela ogrencinin Student id'yi herkes bilmemeli degil mi?
+        Biz bazen bir Class'in icindeki datalari saklamak isteriz. Mesela ogrencinin Students id'yi herkes bilmemeli degil mi?
     Arkadaslar kapsul seklinde ilaclar vardir. Bu kapsullere toz ilac koyarlar.
     Napmis oluyorlar ilaci o kapsulun icinde saklamis oluyoruz. Bu kapsulu Class gibi dusunun,
 

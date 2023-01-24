@@ -35,7 +35,7 @@ public class mentoring_team_practice {
     Soru14:Write a java program that calculates the average value of array elements Print elements that are greater than avarage
           (dizi elemanlarinin ortalama degerini hesaplayan ve ortalamadan büyük olan elemanlari yazdıran bir java programi yazin)
            input[]= {1,2,3,4,5,6,7}
-           Output : 4
+           Output : 5,6,7
     Soru15: $ ve  £  isareti olanlarin toplamlarini ayri ayri bulup yazdıran java code create ediniz.
            String str = "$1 $23 $134 $2 $7 $24 £32 £40 £2 £65 £4 ";
     Soru16:given an int array and find the squares of the elements (Verilen bir int dizisi icin elemanlarin karelerini bulun )
