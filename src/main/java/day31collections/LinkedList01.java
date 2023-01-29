@@ -1,8 +1,5 @@
 package day31collections;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -10,6 +7,8 @@ public class LinkedList01 { // eleman yerine "node" kullaniliyor.
     public static void main(String[] args) {
 
                 /*
+                LinkedList'te insertion order'a gore siralama yapilir.
+
         1)interface'lerden object olusturulamaz cunku interface'lerin constructor'i yoktur.
         2)Abstract Class'lardan object olusturulamaz, constructor'lari vardir ama constructor object olusturmada kullanilamaz.
 
