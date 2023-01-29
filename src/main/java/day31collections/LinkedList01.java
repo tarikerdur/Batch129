@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class LinkedList01 {
+public class LinkedList01 { // eleman yerine "node" kullaniliyor.
     public static void main(String[] args) {
 
                 /*
