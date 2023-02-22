@@ -29,8 +29,6 @@ public class C01_StaticKeyword {
         System.out.println("obj.b = " + obj.b);
         System.out.println("obj.a = " + obj.a);
         System.out.println("obj2.b = " + obj2.b);
-
-
     }
 
 

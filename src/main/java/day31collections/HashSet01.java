@@ -28,11 +28,11 @@ public class HashSet01 {
 
                     2) LinkedHashSet :  a) LinkedHashSet elemanlari "insertion order"a gore dizer. (insertion order == Girdigimiz siraya gore)
                                         b) LinkedHashSet elemanlari siralamakta zaman kaybettigi icin HashSet'e gore yavastir.
-                                        c) HashSet'ler tekrarli elemana musade etmezler.
+                                        c) LinkedHashSet'ler tekrarli elemana musade etmezler.
                     3) TreeSet : a) "TreeSet" elemanlari "natural order"a gore dizer. (natural order == Alfabetik siralama || kucukten buyuge)
                                IT'de Tree kelimesi gorunce natural order akliniza gelsin, dedi.
                                  b) TreeSet "natural order" order yaparken cok zaman harcar bu yuzden en yavas "Set"tir.
-                                 c) HashSet'ler tekrarli elemana musade etmezler.
+                                 c) TreeSet'ler tekrarli elemana musade etmezler.
             */
         HashSet<Integer> hs = new HashSet<>();
         hs.add(12);

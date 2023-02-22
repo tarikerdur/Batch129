@@ -10,7 +10,7 @@ public class HashMaps02 {
                 "Java is easy. Java is OOP. OOP makes Java easy." ==>
                 Console ===> {Java=3, OOP=2, makes=1, is=2, easy=2}
 
-                LOGIC : Map kullanip kullanmamaya istedigimiz ciktinin data typeina bakarak karar vericez.
+                LOGIC : Map kullanip kullanmaya istedigimiz ciktinin data typeina bakarak karar vericez.
                 Map yapisi `key = value`dur. Ornek ciktimizla uygun.
         */
 

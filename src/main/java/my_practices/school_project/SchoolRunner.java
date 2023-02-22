@@ -1,6 +1,5 @@
 package my_practices.school_project;
 
-import java.util.IllegalFormatCodePointException;
 import java.util.Scanner;
 
 public class SchoolRunner {

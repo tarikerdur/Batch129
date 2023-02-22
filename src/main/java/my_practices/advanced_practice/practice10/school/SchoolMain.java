@@ -1,7 +1,5 @@
 package my_practices.advanced_practice.practice10.school;
 
-import day30exceptionsinterface.InvalidNumberException;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
